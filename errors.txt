@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 262: invalid syntax
+    GameAsBG() with fade
+                   ^
+    
+
+Ren'Py Version: Ren'Py 7.5.3.22090809
+Sun Dec 24 19:18:31 2023
